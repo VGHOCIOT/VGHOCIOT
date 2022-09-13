@@ -6,7 +6,7 @@ My name is Vlad, I'm a recent grad coding in a new stack, learning about the too
 
 ### What am I up to? ✏️
 
-Currently working in my first full time role as a Jr. Full Stack Developer at [Harled Inc.](https://www.harled.ca/) and gaining all the knowledge in Ruby on Rails 💎.  As part of the team I'm improving an application we're using to provide SaaS to the RCAF one PR at a time.
+Currently working in my first full time role as a Jr. Full Stack Developer at [Harled Inc.](https://www.harled.ca/) and gaining all the knowledge in Ruby on Rails 💎.  As part of the team I'm improving an application we're using to provide SaaS to the RCAF, one PR at a time.
 
 ### Who do I work well with? 🤝
 
