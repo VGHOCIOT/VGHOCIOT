@@ -1,3 +1,5 @@
+>  “Rocks in my path? I keep them all. With them, I shall build my castle.”  🏗️
+
 ### Who am I? 📖
 
 My name is Vlad, I'm a recent grad coding in a new stack, learning about the tools for success and more importantly learning how to share growth opportunities with the people around me. I love a lot of the generic things techies are really into nowadays like ultimate frisbee, bouldering and video games. I do at least pride myself in steering clear of first-person shooters and enjoying action adventure games like The Arkham Trilogy and The Last of Us as well strategy games like Civ 6.    
