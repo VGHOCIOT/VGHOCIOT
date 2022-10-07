@@ -10,7 +10,7 @@ Currently working in my first full time role as a Jr. Full Stack Developer at [H
 
 ### Who do I work well with? 🤝
 
-I work well with anyone that is approachable and values keeping open lines of communication while on the job. Pair programming is something that I've used very often and I've found that the best work gets done with workmates that keep positive attitudes on the hardest of tasks and are inherently take critism just as positively!
+I work well with anyone that is approachable and values keeping open lines of communication while on the job. Pair programming is something that I've used very often and I've found that the best work gets done with workmates that keep positive attitudes on the hardest of tasks and inherently take critism just as positively!
 
 ### How can you reach me? 📥
 - InMail me on [LinkedIn](https://www.linkedin.com/in/vhociota)
