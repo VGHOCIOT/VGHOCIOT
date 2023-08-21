@@ -6,7 +6,7 @@ My name is Vlad, I'm a recent grad coding in a new stack, learning about the too
 
 ### What am I up to? ✏️
 
-Currently working in my first full time role as a Jr. Full Stack Developer at [Harled Inc.](https://www.harled.ca/) and gaining all the knowledge in Ruby on Rails 💎.  As part of the team I'm improving an application we're using to provide SaaS to the RCAF, one PR at a time.
+Currently working in my first full time role as a Development Manager at [Harled Inc.](https://www.harled.ca/) and gaining knowledge in Ruby on Rails 💎, MVC best practices, frontend Javascript and Agile methodologies in Azure. As part of the team I'm improving an application we're using to provide SaaS to the RCAF, one PR at a time. With my time at Harled I have learned about the many advantages of being a part of a boutique development field; the improved speed, sense of craftsmanship and niche focus creation with the latest technologies. 
 
 ### Who do I work well with? 🤝
 
@@ -17,6 +17,10 @@ I work well with anyone that is approachable and values keeping open lines of co
 An important part of my processes when getting work done is that most of my thinking is best done when I can focus on a task uninterrupted for a longer period of time. It’s important that I have enough of a buffer when starting, or refocusing, on a task because I need a period of build up to get in my “coding zone”. Because of this, I find back-to-back or closely timed meetings to be very exhaustive. The smaller the times between meetings I have during a day, the less time I have to get fully immersed in the work I have to do. Conversely, having sessions where I can improve my organizational or development knowledge with group research on different topics weekly, an exercise Harled does really well, is something that energises me to add more quality to my work. 
 
 My approach to problem-solving is focused on getting an idea of the full spread an issue can consist of in the codebase. It’s one thing to understand what file changes will fix said issue, it’s another thing entirely to understand what other areas of the code these changes could affect. This issue could involve changes that have cleaner code that could be updated in similar files or could negatively affect the code by making sections too verbose or computationally heavy. I like to start my development processes on the outside and work my way in.
+
+### Learnings in a management role? 📚
+
+My recent development manager role involves many intricacies when it comes to defining and solidifying work items and their effort levels in an Agile framework. I have learned a lot, not only about the importance of accurate effort estimation but how important tailoring work items to each team profile in a team no matter how small and mighty. When managing and finding performance metrics for a small team, it is also very important to iterate and to look towards more specific metrics that may not necessarily fit standards for larger companies but allow for plans for improvement that will lead to faster results.
 
 ### How can you reach me? 📥
 - InMail me on [LinkedIn](https://www.linkedin.com/in/vhociota)
